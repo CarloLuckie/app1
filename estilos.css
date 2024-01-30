@@ -1,0 +1,12 @@
+h1 {
+    font-family: 'Honk', system-ui;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Sixtyfour', sans-serif;
+    text-align: center;
+}
+body {
+    background-color: coral;
+}
